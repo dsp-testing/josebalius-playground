@@ -1,2 +1,2 @@
 # josebalius-playground
-Jose's playground repo
+Jose's playground repo maintained by josebalius
