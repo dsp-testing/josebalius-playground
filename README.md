@@ -1,3 +1,3 @@
 # josebalius-playground
 Jose's playground repo
-Created by jose.
+Created by Jose Garcia.
