@@ -1,3 +1,3 @@
 # josebalius-playground
 Jose's playground repo
-Maintainer: josebalius
+Maintainer: josebalius (Jose Garcia)
