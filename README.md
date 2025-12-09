@@ -1,4 +1,4 @@
 # josebalius-playground
 Jose's playground repo
 
-Created by josebalius
+Created by josebalius (Jose Garcia)
